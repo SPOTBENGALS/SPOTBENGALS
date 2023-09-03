@@ -26,5 +26,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSPOTBENGALS&count_bg=%23C8D2DD&title_bg=%237290B1&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&fontColor=ffffff)
 
 </div>
