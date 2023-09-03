@@ -23,7 +23,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPOTBENGALS&layout=compact)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=SPOTBENGALS)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSPOTBENGALS&count_bg=%23C8D2DD&title_bg=%237290B1&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
 
